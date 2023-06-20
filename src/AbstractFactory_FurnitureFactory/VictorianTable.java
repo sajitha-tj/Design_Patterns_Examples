@@ -1,0 +1,8 @@
+package AbstractFactory_FurnitureFactory;
+
+public class VictorianTable implements Table{
+    @Override
+    public void putOn() {
+        System.out.println("Putting on a victorian table");
+    }
+}
