@@ -1,10 +1,10 @@
-# TextEditor | Memento Pattern
+# Pizza Builder | Builder Design Pattern
 
 ## Introduction
 
-This project is a simple text editor that uses the Memento Pattern to save and restore the state of the text editor.
-Here, the Editor is the Originator, the History is the Memento and the Caretaker is the History class.
-We can create new content, save the content and undo and restore the content.
+This project is a simple pizza builder that uses the Builder Design Pattern to build a pizza.
+Here, the PizzaBuilder is the Builder, the Pizza is the Product and the director is the Director.
+We can create different types of pizza by using the PizzaBuilder and director.
 
 ## Getting Started
 
@@ -14,3 +14,4 @@ Also, you need to have Java installed on your machine. You can download it from 
 ## Running the tests
 
 To run the tests, you need to run the main method in the Main class. You can find the Main class in the following path: src\Main.java
+

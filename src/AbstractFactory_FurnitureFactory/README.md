@@ -1,5 +1,6 @@
-# AbstractFactory_FurnitureFactory.FurnitureFactory
-AbstractFactory_FurnitureFactory.FurnitureFactory is a simple code that illustrates how the design pattern AbstractFactory can be used in java code. This code has a Factory called AbstractFactory_FurnitureFactory.FurnitureFactory that creates different types of furniture based on user input.
+# Furniture Factory | Abstract Factory Design Pattern
+
+FurnitureFactory is a simple code that illustrates how the design pattern AbstractFactory can be used in java code. This code has a Factory called FurnitureFactory that creates different types of furniture based on user input.
 
 ## Getting Started
 
@@ -8,7 +9,7 @@ Also, you need to have Java installed on your machine. You can download it from 
 
 ## Running the tests
 
-To run the tests, you need to run the main method in the AbstractFactory_FurnitureFactory.Main class. You can find the AbstractFactory_FurnitureFactory.Main class in the following path: AbstractFactory_FurnitureFactory.FurnitureFactory/src/AbstractFactory_FurnitureFactory.Main.java
+To run the tests, you need to run the main method in the Main class. You can find the Main class in the following path: Main.java
 
 ### Example
 
