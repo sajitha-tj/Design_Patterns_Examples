@@ -2,7 +2,6 @@ package FlyWeight_ForestCreator;
 
 public class Main {
     public static void main(String[] args) {
-        TreeDataFactory treeDataFactory = new TreeDataFactory();
 
         Tree tree1 = new Tree(0,2,TreeType.TREE);
         Tree tree2 = new Tree(10,3,TreeType.VEIN);
